@@ -13,7 +13,7 @@ Step 3: Manually download PyTorch EP-GAN models S1.pth (for small HH-model) and 
 
 Step 4: Download experimental recording data exp.zip for 9 neurons from Mendeley Data and unzip it under epgan-main/EPGAN/data (There should be /sim and /exp folders after unzipping)
 
-Step 5: Start Jupyter Notebook navigation interface via typing "jupyter notebook" prompt (e.g., Anaconda Prompt (Windows) or Terminal (Mac/Linux))
+Step 5: Start Jupyter Notebook navigation interface via typing "jupyter notebook" prompt e.g., Anaconda Prompt (Windows) or Terminal (Mac/Linux)
 
 Step 6: Load the Jupyter Notebook "EP-GAN testing on experimental neurons.ipynb" and execute each cell from top to bottom
 
