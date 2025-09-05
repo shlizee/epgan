@@ -11,7 +11,7 @@ Step 2: Download the repository in .zip file and unzip it at your desired locati
 
 Step 3: Manually download PyTorch EP-GAN models S1.pth (for small HH-model) and L1.pth (for large HH-model) from [Here](https://github.com/shlizee/epgan/tree/main/EPGAN/pretrained_models) and place them under epgan-main/EPGAN/pretrained_models
 
-Step 4: Download experimental recording data exp.zip for 9 neurons from Mendeley Data and unzip it under epgan-main/EPGAN/data (There should be /sim and /exp folders after unzipping)
+Step 4: Download experimental recording data exp.zip for 9 neurons from [Mendeley Data](https://data.mendeley.com/datasets/g5kcjp7jsk/1) and unzip it under epgan-main/EPGAN/data (There should be /sim and /exp folders after unzipping)
 
 Step 5: Start Jupyter Notebook navigation interface via typing "jupyter notebook" in command prompt e.g., Anaconda Prompt (Windows) or Terminal (Mac/Linux)
 
