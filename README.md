@@ -1,4 +1,4 @@
-Source code and Jupyter Notebook for testing pre-trained EP-GAN models (small and large HH-model) with respect to 9 experimental C. elegans neurons considered in the paper.
+Source code and Jupyter Notebook for testing pre-trained EP-GAN models (small and large HH-model, 64k sample size) with respect to 9 experimental C. elegans neurons considered in the paper.
 
 # Dependencies
 NumPy, SciPy, Pandas, PyTorch (CPU version), Matplotlib, ipython, jupyter
