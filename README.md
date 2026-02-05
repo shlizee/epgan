@@ -22,4 +22,5 @@ Step 6: Load the Jupyter Notebook "EP-GAN testing on experimental neurons.ipynb"
 If you are using this package please cite the following:
 \
 \
-Kim, J., Peng, M., Chen, S., Liu, Q., & Shlizerman, E. (2025). ElectroPhysiomeGAN: Generation of Biophysical Neuron Model Parameters from Recorded Electrophysiological Responses. eLife, 13.
+Kim, J., Peng, M., Chen, S., Liu, Q., & Shlizerman, E. (2025). Generation of Biophysical Neuron Model Parameters from Recorded Electrophysiological Responses. eLife, 13.
+[LINK TO THE PAPER](https://elifesciences.org/articles/95607)
